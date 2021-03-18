@@ -1,5 +1,5 @@
-frst name ssisay
-last name goliye
+frst name Sisay
+last name Goliye
 id 1313
 year:4th
 saction:B
