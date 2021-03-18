@@ -1,0 +1,6 @@
+frst name ssisay
+last name goliye
+id 1313
+year:4th
+saction:B
+ssemister 1
