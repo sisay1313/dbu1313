@@ -1,6 +1,1 @@
-frst name Sisay
-last name Goliye
-id 1313
-year:4th
-saction:B
-ssemister 1
+Git is VCS
